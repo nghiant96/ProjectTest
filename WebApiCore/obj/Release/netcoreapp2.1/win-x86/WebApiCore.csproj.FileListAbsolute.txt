@@ -1,0 +1,17 @@
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\win-x86\WebApiCore.exe
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\win-x86\WebApiCore.deps.json
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\win-x86\WebApiCore.runtimeconfig.json
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\win-x86\WebApiCore.runtimeconfig.dev.json
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\win-x86\WebApiCore.dll
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\win-x86\WebApiCore.pdb
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\win-x86\WebApiCore.csprojAssemblyReference.cache
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\win-x86\WebApiCore.csproj.CoreCompileInputs.cache
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\win-x86\WebApiCore.RazorAssemblyInfo.cache
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\win-x86\WebApiCore.RazorAssemblyInfo.cs
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\win-x86\WebApiCore.AssemblyInfoInputs.cache
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\win-x86\WebApiCore.AssemblyInfo.cs
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\win-x86\WebApiCore.RazorTargetAssemblyInfo.cache
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\win-x86\WebApiCore.dll
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\win-x86\WebApiCore.pdb

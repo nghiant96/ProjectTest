@@ -1,0 +1,14 @@
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\WebApiCore.deps.json
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\WebApiCore.runtimeconfig.json
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\WebApiCore.runtimeconfig.dev.json
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\WebApiCore.dll
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\bin\Release\netcoreapp2.1\WebApiCore.pdb
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.csprojAssemblyReference.cache
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.csproj.CoreCompileInputs.cache
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.RazorAssemblyInfo.cache
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.RazorAssemblyInfo.cs
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.AssemblyInfoInputs.cache
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.AssemblyInfo.cs
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.RazorTargetAssemblyInfo.cache
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.dll
+C:\Users\NghiaDEV\Documents\Project\WebApiCore\WebApiCore\WebApiCore\obj\Release\netcoreapp2.1\WebApiCore.pdb

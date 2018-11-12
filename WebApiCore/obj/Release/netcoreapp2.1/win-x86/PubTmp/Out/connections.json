@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "dev": "\"Server=.\\\\;Database=schoolDB;Trusted_Connection=True;"
+  }
+}

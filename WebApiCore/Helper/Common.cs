@@ -6,9 +6,15 @@ using WebApiCore.Models;
 
 namespace WebApiCore.Helper
 {
-    public class Common : ICommon
+    public class Common
     {
-        public object ResponseAPI(object data)
+        public Common common { get; set; }
+        public Common(Common _common)
+        {
+            common = _common;
+        }
+
+        public static object ResponseAPI(object data)
         {
             ResponseModal response = new ResponseModal();
             response.Status = "OK";

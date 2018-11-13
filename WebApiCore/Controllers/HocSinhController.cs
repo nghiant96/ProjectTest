@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -24,8 +24,7 @@ namespace WebApiCore.Controllers
         public ActionResult<IEnumerable<HocSinh>> Get()
         {
             var lstData = hsProvider.getAllHocSinh();
-            Common com = new Common();
-            var response = com.ResponseAPI(lstData);
+            var response = Common.ResponseAPI(lstData);
             return Ok(response);
         }
 
